@@ -1,3 +1,4 @@
-fitted q iteration
+fitted q iteration code<br />
+
 usage python training.py
 
